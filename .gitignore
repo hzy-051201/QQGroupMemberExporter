@@ -1,0 +1,18 @@
+# 导出结果
+exports/
+群成员导出_*.xlsx
+群成员导出_*.csv
+
+# NapCat 部署(体积大且含第三方程序,不随仓库分发)
+NapCatShell/
+
+# 日志与缓存
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
